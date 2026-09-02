@@ -23,6 +23,7 @@ Instant Risk Assessment: Generates an immediate prediction result upon questionn
 Feature Importance Insights: Identifies which habits are contributing most negatively or positively to the predicted outcome (e.g., highlighting that sleep deprivation lowers performance despite high study hours).
 
 Interactive Scenario Simulator: Allows students to adjust variables dynamically (e.g., "What if I increase study time from 2 to 4 hours?") to visualize how habit changes impact their pass probability.
+IF YOU WANT TO ADD CONSTRAINTS I HAVE UPLOADED FILES ABOVE SO DEVELOPER CAN MODIFY IT ACCORDINGLY.ORELSE TO USE THE APP JUST DOWNLOAD THE ZIP FILE AND OPEN IT WITH LOCAL HOST.FOR BUILTING TO A STANDALONE APP I HAVE ADDED FLUTTER LIBRARIES TOO.
 
 Target Audience & Impact
 
